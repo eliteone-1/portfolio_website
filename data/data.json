@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "id": "smart-ai-energy-meter",
+      "title": "Smart AI Based Energy Meter",
+      "date": "2025 - 2026",
+      "category": "Artificial Intelligence & Embedded Systems",
+      "description": "Final year project developing an AI-powered energy monitoring system that predicts consumption patterns and optimizes energy usage using machine learning algorithms.",
+      "image_url": "assets/images/project-energy-meter.jpg",
+      "highlights": [
+        "Predictive consumption modeling using lightweight ML algorithms",
+        "Hardware-software integration with microcontroller sensors",
+        "Real-time peak load reduction and automated load shedding recommendations"
+      ]
+    },
+    {
+      "id": "youtube-growth-system",
+      "title": "YouTube Channel Growth System",
+      "date": "2025",
+      "category": "Content Operations & Analytics",
+      "description": "Designed and implemented a complete content operations system for a business podcast channel that drove 807 percent growth in views and 223 percent growth in watch time within 90 days.",
+      "image_url": "assets/images/project-youtube-growth.jpg",
+      "highlights": [
+        "807% increase in total channel views within 90 days",
+        "223% increase in total watch time",
+        "Standardized content calendar, thumbnail A/B testing workflow, and metadata optimization"
+      ]
+    },
+    {
+      "id": "dollarwise-pipeline",
+      "title": "DollarWise Show Production Pipeline",
+      "date": "2026",
+      "category": "Media Operations & Workflow",
+      "description": "Built the complete guest casting, onboarding and production coordination system for a new YouTube show format at a 3.4 million subscriber media company from scratch.",
+      "image_url": "assets/images/project-dollarwise.jpg",
+      "highlights": [
+        "End-to-end guest intake and scheduling architecture",
+        "Pre-production research briefs and automated editor handover files",
+        "Engineered for high-volume publishing with zero missed deadlines"
+      ]
+    },
+    {
+      "id": "personal-portfolio-website",
+      "title": "Personal Portfolio Website",
+      "date": "2026",
+      "category": "Web Development",
+      "description": "This website, built using only HTML5, CSS3 and JSON with no JavaScript or CMS platforms.",
+      "image_url": "assets/images/project-portfolio.jpg",
+      "highlights": [
+        "100% pure CSS interactivity (hover, focus, target, checkbox hack)",
+        "Schema.org JSON-LD structured data embedded on key pages",
+        "Mobile-first responsive design with custom print styling"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": ["Python", "C", "C++", "HTML5", "CSS3"]
+    },
+    {
+      "category": "AI and Machine Learning",
+      "items": ["Machine Learning Fundamentals", "Neural Networks", "Data Analysis", "AI System Design"]
+    },
+    {
+      "category": "Operations and Project Management",
+      "items": ["ClickUp", "Trello", "Notion", "Google Workspace", "Slack"]
+    },
+    {
+      "category": "Content and Media Tools",
+      "items": ["YouTube Studio", "Canva", "Adobe Photoshop", "CapCut", "vidIQ", "TubeBuddy", "Buffer"]
+    },
+    {
+      "category": "Other Tools",
+      "items": ["Git", "GitHub", "JSON", "Linux Basics"]
+    }
+  ]
+}
