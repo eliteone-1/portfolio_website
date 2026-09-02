@@ -6,14 +6,14 @@ This project strictly adheres to a **No-JavaScript** constraint, utilizing only 
 
 ---
 
-## 🚀 Live Demo & Deployment
+## Live Demo & Deployment
 
 - **GitHub Repository**: [github.com/eliteone-1/portfolio_website](https://github.com/eliteone-1/portfolio_website.git)
 - **Live Vercel Deployment**: *Deployed via Vercel*
 
 ---
 
-## 🛠️ Technical Stack & Architecture
+## Technical Stack & Architecture
 
 - **Core Technologies**: HTML5, CSS3, JSON
 - **Frameworks / Libraries**: None (0% JavaScript, 0% CMS, 0% External JS Frameworks)
@@ -24,7 +24,7 @@ This project strictly adheres to a **No-JavaScript** constraint, utilizing only 
 
 ---
 
-## 📖 Pages Sitemap
+## Pages Sitemap
 
 1. **Home (`index.html`)**: Hero section, headline keyframe animation, track record metrics, and `Person` JSON-LD schema.
 2. **About Me (`about.html`)**: First-person story covering background in Nigeria, engineering journey at ABU Zaria, and technical/operational identity.
@@ -37,7 +37,7 @@ This project strictly adheres to a **No-JavaScript** constraint, utilizing only 
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 .
@@ -60,7 +60,7 @@ This project strictly adheres to a **No-JavaScript** constraint, utilizing only 
 
 ---
 
-## 💻 Local Development Setup
+## Local Development Setup
 
 To run this project locally, simply open any `.html` file in your browser or run a simple local web server:
 
@@ -77,6 +77,6 @@ Then visit `http://localhost:8080` in your web browser.
 
 ---
 
-## 📄 License & Copyright
+## License & Copyright
 
 © 2026 Emmanuel Audu Jeremiah. All rights reserved.
